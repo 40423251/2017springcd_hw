@@ -74,7 +74,7 @@
 <v t="leo.20170304161410.11"><vh>iframe 導入影片</vh></v>
 </v>
 </v>
-<v t="leo.20170315090154.1" a="E"><vh>Week3</vh>
+<v t="leo.20170315090154.1"><vh>Week3</vh>
 <v t="leo.20170315090154.2" a="E"><vh>Week3 content</vh>
 <v t="leo.20170315090154.3"><vh>Week3-1</vh></v>
 </v>
@@ -91,7 +91,7 @@
 <v t="leo.20170315090154.11"><vh>iframe 導入影片</vh></v>
 </v>
 </v>
-<v t="leo.20170315092836.1" a="E"><vh>Week4</vh>
+<v t="leo.20170315092836.1"><vh>Week4</vh>
 <v t="leo.20170315092836.2" a="E"><vh>Week4 content</vh>
 <v t="leo.20170315092836.3"><vh>Week4-1</vh></v>
 </v>
