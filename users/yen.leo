@@ -91,7 +91,7 @@
 <v t="leo.20170315090154.11"><vh>iframe 導入影片</vh></v>
 </v>
 </v>
-<v t="leo.20170315092836.1"><vh>Week4</vh>
+<v t="leo.20170315092836.1" a="E"><vh>Week4</vh>
 <v t="leo.20170315092836.2" a="E"><vh>Week4 content</vh>
 <v t="leo.20170315092836.3"><vh>Week4-1</vh></v>
 </v>
@@ -197,11 +197,10 @@ Created by [KMOLab](http://chiamingyen.github.io/kmolab/blog/)
 
 						
 </t>
-<t tx="leo.20170304152605.2">#3. 登錄https://192.168.1.24/2017springvcp_hw/index
+<t tx="leo.20170304152605.2">###3. 登錄
+https://192.168.1.24/2017springvcp_hw/index
 
-#網路設定:瀏覽器設定→變更proxy→LAN設定→將Prosy伺服器打勾→位址proxy.mde.tw→連接埠3128→近端網址不使用打勾→完成
-
-→箭頭→</t>
+網路設定:瀏覽器設定→變更proxy→LAN設定→將Prosy伺服器打勾→位址proxy.mde.tw→連接埠3128→近端網址不使用打勾→完成</t>
 <t tx="leo.20170304155027.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -213,7 +212,7 @@ Created by [KMOLab](http://chiamingyen.github.io/kmolab/blog/)
 
 						
 </t>
-<t tx="leo.20170304155027.2"># 4.以python控制v-rep四連桿機構
+<t tx="leo.20170304155027.2">### 4.以python控制v-rep四連桿機構
 
 解開位於2017springcd_hw→data的fourbarlinkage_w_pin_base.7z壓縮檔,將有單、四、八連桿可使用於Solvespace和V-rep</t>
 <t tx="leo.20170304161410.1">&lt;section&gt;
@@ -233,7 +232,7 @@ Created by [KMOLab](http://chiamingyen.github.io/kmolab/blog/)
 
 ### 導入影片 template
 
-&lt;iframe src="https://player.vimeo.com/video/183950627" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe src="xx" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 </t>
 <t tx="leo.20170304161410.2">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -248,8 +247,8 @@ Created by [KMOLab](http://chiamingyen.github.io/kmolab/blog/)
 </t>
 <t tx="leo.20170304161410.3">##第二週
 
-#1.用python找出缺課的人
-#2.以solvespace組四連桿,放到Vrep裡
+###1.用python找出缺課的人
+###2.以solvespace組四連桿,放到Vrep裡
 </t>
 <t tx="leo.20170304161410.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -262,7 +261,8 @@ Created by [KMOLab](http://chiamingyen.github.io/kmolab/blog/)
 
 						
 </t>
-<t tx="leo.20170304161410.5">#1.班級倉儲data→w2→cd_w2.py(座位表)、w2b_registered.txt(修課名單)，利用程式碼列印出分組名單、座位、缺席者、總人數
+<t tx="leo.20170304161410.5">###1.班級倉儲data→w2→cd_w2.py(座位表)、w2b_registered.txt(修課名單)
+###利用程式碼列印出分組名單、座位、缺席者、總人數
 </t>
 <t tx="leo.20170304161410.6">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -275,9 +275,9 @@ Created by [KMOLab](http://chiamingyen.github.io/kmolab/blog/)
 
 						
 </t>
-<t tx="leo.20170304161410.7">## 分組座位程式碼 ##
+<t tx="leo.20170304161410.7">##  #分組座位程式碼 # #
 
-#利用 Python格式列印出班級座位表#
+###利用 Python格式列印出班級座位表
 ```
 @language python
 #import os
@@ -360,9 +360,9 @@ print("學生總數:", n)
 
 						
 </t>
-<t tx="leo.20170304161410.9"># 2.solvespace組立四連桿,放到Vrep裡
+<t tx="leo.20170304161410.9">### 2.solvespace組立四連桿,放到Vrep裡
 
-#先在solvespace裡繪製出四連桿結構</t>
+先在solvespace裡繪製出四連桿結構</t>
 <t tx="leo.20170315090154.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -380,7 +380,7 @@ print("學生總數:", n)
 
 ### 導入影片 template
 
-&lt;iframe src="https://player.vimeo.com/video/183950627" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe src="xx" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 </t>
 <t tx="leo.20170315090154.2">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -393,11 +393,7 @@ print("學生總數:", n)
 
 						
 </t>
-<t tx="leo.20170315090154.3">##第三週
-
-###1.
-
-</t>
+<t tx="leo.20170315090154.3"></t>
 <t tx="leo.20170315090154.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -409,7 +405,7 @@ print("學生總數:", n)
 
 						
 </t>
-<t tx="leo.20170315090154.5">###2.</t>
+<t tx="leo.20170315090154.5"></t>
 <t tx="leo.20170315090154.6">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -421,7 +417,7 @@ print("學生總數:", n)
 
 						
 </t>
-<t tx="leo.20170315090154.7">## </t>
+<t tx="leo.20170315090154.7"></t>
 <t tx="leo.20170315090154.8">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -433,7 +429,7 @@ print("學生總數:", n)
 
 						
 </t>
-<t tx="leo.20170315090154.9">## 3</t>
+<t tx="leo.20170315090154.9"></t>
 <t tx="leo.20170315092836.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -451,7 +447,7 @@ print("學生總數:", n)
 
 ### 導入影片 template
 
-&lt;iframe src="https://player.vimeo.com/video/183950627" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe src="xx" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 </t>
 <t tx="leo.20170315092836.2">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -464,11 +460,7 @@ print("學生總數:", n)
 
 						
 </t>
-<t tx="leo.20170315092836.3">##第三週
-
-###1.
-
-</t>
+<t tx="leo.20170315092836.3"></t>
 <t tx="leo.20170315092836.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -480,7 +472,7 @@ print("學生總數:", n)
 
 						
 </t>
-<t tx="leo.20170315092836.5">###2.</t>
+<t tx="leo.20170315092836.5"></t>
 <t tx="leo.20170315092836.6">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -492,7 +484,7 @@ print("學生總數:", n)
 
 						
 </t>
-<t tx="leo.20170315092836.7">## </t>
+<t tx="leo.20170315092836.7">##</t>
 <t tx="leo.20170315092836.8">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -504,7 +496,7 @@ print("學生總數:", n)
 
 						
 </t>
-<t tx="leo.20170315092836.9">## 3</t>
+<t tx="leo.20170315092836.9"></t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
@@ -683,9 +675,9 @@ make.start()</t>
 
 						
 </t>
-<t tx="yen.20170120110024.13">###第一週
+<t tx="yen.20170120110024.13">##第一週
 
-#1.本學期課程大綱
+###1.本學期課程大綱
 
 去mdecourse看大綱
 
@@ -705,7 +697,7 @@ make.start()</t>
 
 						
 </t>
-<t tx="yen.20170120110024.15">#2.打開stunnel
+<t tx="yen.20170120110024.15">###2.打開stunnel
 
 以ipconfig/all指令找出本機IPV4位址
 再於tiny2017_700MB&gt;data&gt;stunnel&gt;config,覆蓋stunnel.conf內容中最後一段IP再儲存,將程式fossil重新開啟就能顯示</t>
