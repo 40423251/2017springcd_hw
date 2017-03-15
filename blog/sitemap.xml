@@ -5,84 +5,91 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./</loc>
-<lastmod>2017-03-15T11:14:48-00:00</lastmod>
+<lastmod>2017-03-15T12:13:25-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./archives.html</loc>
-<lastmod>2017-03-15T11:14:48-00:00</lastmod>
+<lastmod>2017-03-15T12:13:25-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./tags.html</loc>
-<lastmod>2017-03-15T11:14:48-00:00</lastmod>
+<lastmod>2017-03-15T12:13:25-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./categories.html</loc>
-<lastmod>2017-03-15T11:14:48-00:00</lastmod>
+<lastmod>2017-03-15T12:13:25-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./pages/about/</loc>
-<lastmod>2017-03-15T09:21:34+08:00</lastmod>
+<lastmod>2017-03-15T12:10:33+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./2017springCD-Week1.html</loc>
-<lastmod>2017-02-22T11:00:00+08:00</lastmod>
+<loc>./week1.html</loc>
+<lastmod>2017-02-22T00:00:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./2017springCD-Week2.html</loc>
-<lastmod>2017-02-22T11:00:00+08:00</lastmod>
+<loc>./week2.html</loc>
+<lastmod>2017-02-22T00:00:00+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./week3.html</loc>
+<lastmod>2017-02-22T00:00:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./category/course.html</loc>
-<lastmod>2017-02-22T11:00:00+08:06</lastmod>
+<lastmod>2017-02-22T00:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./tag/brython.html</loc>
-<lastmod>2017-02-22T11:00:00+08:06</lastmod>
+<loc>./tag/w3shang-ke-nei-rong.html</loc>
+<lastmod>2017-02-22T00:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./tag/w1.html</loc>
-<lastmod>2017-02-22T11:00:00+08:06</lastmod>
+<loc>./tag/w1shang-ke-nei-rong.html</loc>
+<lastmod>2017-02-22T00:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./tag/w2.html</loc>
-<lastmod>2017-02-22T11:00:00+08:06</lastmod>
+<loc>./tag/w2shang-ke-nei-rong.html</loc>
+<lastmod>2017-02-22T00:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./author/40423248.html</loc>
-<lastmod>2017-02-22T11:00:00+08:06</lastmod>
+<loc>./author/40423251.html</loc>
+<lastmod>2017-02-22T00:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>

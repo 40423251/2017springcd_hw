@@ -32,15 +32,15 @@
 <v t="yen.20170120110024.3"><vh>head</vh></v>
 <v t="yen.20170120110024.4" a="E"><vh>body</vh>
 <v t="yen.20170120110024.5" a="E"><vh>reveal div</vh>
-<v t="yen.20170120110024.6" a="E"><vh>slides div</vh>
-<v t="yen.20170120110024.7" a="E"><vh>封面投影片</vh>
+<v t="yen.20170120110024.6"><vh>slides div</vh>
+<v t="yen.20170120110024.7"><vh>封面投影片</vh>
 <v t="yen.20170120110024.8"><vh>封面投影片內容</vh></v>
 <v t="leo.20170304145953.1"><vh>2017CD Week1</vh></v>
 </v>
 <v t="yen.20170120110024.9"><vh>快捷鍵</vh>
 <v t="yen.20170120110024.10"><vh>投影片快捷鍵</vh></v>
 </v>
-<v t="yen.20170120110024.11" a="E"><vh>Week1</vh>
+<v t="yen.20170120110024.11"><vh>Week1</vh>
 <v t="yen.20170120110024.12" a="E"><vh>Week1 content</vh>
 <v t="yen.20170120110024.13"><vh>Week1-1</vh></v>
 </v>
@@ -57,7 +57,7 @@
 <v t="yen.20170120110024.17"><vh>iframe 導入影片</vh></v>
 </v>
 </v>
-<v t="leo.20170304161410.1" a="E"><vh>Week2</vh>
+<v t="leo.20170304161410.1"><vh>Week2</vh>
 <v t="leo.20170304161410.2" a="E"><vh>Week2 content</vh>
 <v t="leo.20170304161410.3"><vh>Week2-1</vh></v>
 </v>
@@ -116,6 +116,7 @@
 <v t="yen.20170108171733.71" a="E"><vh>@path content</vh>
 <v t="yen.20170221100209.1"><vh>@edit 2017Week1.md</vh></v>
 <v t="leo.20170315090339.1"><vh>@edit 2017Week2.md</vh></v>
+<v t="leo.20170315121300.1"><vh>@edit 2017Week3.md</vh></v>
 <v t="yen.20170108171733.81"><vh>@path pages</vh>
 <v t="yen.20170108171733.82"><vh>@edit pages_1.md</vh></v>
 </v>

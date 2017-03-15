@@ -2,7 +2,7 @@
 <html lang="en"
 >
 <head>
-    <title>w1 - 2017Spring 協同產品設計實習 (虎尾科大MDE)</title>
+    <title>2017第一週 - 2017Spring 協同產品設計實習 (虎尾科大MDE)</title>
     <!-- Using the latest rendering mode for IE -->
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta charset="utf-8">
@@ -10,27 +10,32 @@
 
 
 
+<link rel="canonical" href="./week1.html">
 
-    <meta name="author" content="KMOL" />
-    <meta name="keywords" content="w1" />
+        <meta name="author" content="40423251" />
+        <meta name="keywords" content="W1上課內容" />
+        <meta name="description" content="第一週上課內容 1.本學期課程大綱 去mdecourse看大綱 延伸介紹3D軟體與其關聯性 介紹python的優缺點 2.打開stunnel 以ipconfig/all指令找出本機IPV4位址 再於tiny2017_700MB&gt;data&gt;stunnel&gt;config,覆蓋stunnel.conf內容中最後一段IP再儲存,將程式fossil重新開啟就能顯示 3. 登錄 https://192.168.1.24/2017springvcp_hw/index 網路設定:瀏覽器設定→變更proxy→LAN設定→將Prosy伺服器打勾→位址proxy.mde.tw→連接埠3128→近端網址不使用打勾→完成 4.以python控制v-rep四連桿機構 解開位於2017springcd_hw→data的fourbarlinkage_w_pin_base.7z壓縮檔,將有單、四、八連桿可使用於Solvespace和V-rep" />
 
-    <!-- Open Graph tags -->
         <meta property="og:site_name" content="2017Spring 協同產品設計實習 (虎尾科大MDE)" />
-        <meta property="og:type" content="website"/>
-        <meta property="og:title" content="2017Spring 協同產品設計實習 (虎尾科大MDE)"/>
-        <meta property="og:url" content=".."/>
-        <meta property="og:description" content="2017Spring 協同產品設計實習 (虎尾科大MDE)"/>
+        <meta property="og:type" content="article"/>
+        <meta property="og:title" content="2017第一週"/>
+        <meta property="og:url" content="./week1.html"/>
+        <meta property="og:description" content="第一週上課內容 1.本學期課程大綱 去mdecourse看大綱 延伸介紹3D軟體與其關聯性 介紹python的優缺點 2.打開stunnel 以ipconfig/all指令找出本機IPV4位址 再於tiny2017_700MB&gt;data&gt;stunnel&gt;config,覆蓋stunnel.conf內容中最後一段IP再儲存,將程式fossil重新開啟就能顯示 3. 登錄 https://192.168.1.24/2017springvcp_hw/index 網路設定:瀏覽器設定→變更proxy→LAN設定→將Prosy伺服器打勾→位址proxy.mde.tw→連接埠3128→近端網址不使用打勾→完成 4.以python控制v-rep四連桿機構 解開位於2017springcd_hw→data的fourbarlinkage_w_pin_base.7z壓縮檔,將有單、四、八連桿可使用於Solvespace和V-rep"/>
+        <meta property="article:published_time" content="2017-02-22" />
+            <meta property="article:section" content="Course" />
+            <meta property="article:tag" content="W1上課內容" />
+            <meta property="article:author" content="40423251" />
 
 
     <!-- Bootstrap -->
-        <link rel="stylesheet" href="../theme/css/bootstrap.united.min.css" type="text/css"/>
-    <link href="../theme/css/font-awesome.min.css" rel="stylesheet">
+        <link rel="stylesheet" href="./theme/css/bootstrap.united.min.css" type="text/css"/>
+    <link href="./theme/css/font-awesome.min.css" rel="stylesheet">
 
-    <link href="../theme/css/pygments/monokai.css" rel="stylesheet">
-    <link href="../theme/tipuesearch/tipuesearch.css" rel="stylesheet">
-    <link rel="stylesheet" href="../theme/css/style.css" type="text/css"/>
+    <link href="./theme/css/pygments/monokai.css" rel="stylesheet">
+    <link href="./theme/tipuesearch/tipuesearch.css" rel="stylesheet">
+    <link rel="stylesheet" href="./theme/css/style.css" type="text/css"/>
 
-        <link href="../feeds/all.atom.xml" type="application/atom+xml" rel="alternate"
+        <link href="./feeds/all.atom.xml" type="application/atom+xml" rel="alternate"
               title="2017Spring 協同產品設計實習 (虎尾科大MDE) ATOM Feed"/>
 
 <script type="text/javascript" src="https://coursemdetw.github.io/project_site_files/files/syntaxhighlighter/shCore.js"></script>
@@ -92,25 +97,25 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a href="../" class="navbar-brand">
+            <a href="./" class="navbar-brand">
 2017Spring 協同產品設計實習 (虎尾科大MDE)            </a>
         </div>
         <div class="collapse navbar-collapse navbar-ex1-collapse">
             <ul class="nav navbar-nav">
-                         <li><a href="../pages/about/">
+                         <li><a href="./pages/about/">
                              About
                           </a></li>
-                        <li >
-                            <a href="../category/course.html">Course</a>
+                        <li class="active">
+                            <a href="./category/course.html">Course</a>
                         </li>
             </ul>
             <ul class="nav navbar-nav navbar-right">
               <li><span>
-                <form class="navbar-search" action="../search.html">
+                <form class="navbar-search" action="./search.html">
                   <input type="text" class="search-query" placeholder="Search" name="q" id="tipue_search_input" required>
                 </form></span>
               </li>
-              <li><a href="../archives.html"><i class="fa fa-th-list"></i><span class="icon-label">Archives</span></a></li>
+              <li><a href="./archives.html"><i class="fa fa-th-list"></i><span class="icon-label">Archives</span></a></li>
             </ul>
         </div>
         <!-- /.navbar-collapse -->
@@ -122,25 +127,52 @@
     <div class="row">
         <div class="col-sm-9">
 
-            <article>
-                <h2><a href="../2017springCD-Week1.html">2017CD第一週</a></h2>
-                <div class="summary"><p>第一週上課內容</p>
-<h3>1.本學期課程概要</h3>
-<p>登錄Github到老師的Mdecourse的倉儲看大綱</p>
-<p>有介紹一些3D軟體的相聯性</p>
-<p>概略介紹C和PYTHON的優缺點</p>
-<h3>2.用正確的方式打開Stunnel</h3>
-<p>進入tiny2017_700MB&gt;data&gt;stunnel&gt;config裡面,修改stunnel.conf
-內容中的最後一段IP位置,要先在cmd中用ipconfig/all找出自己的IPV4位置
-把這個IPV4位置覆蓋掉stunnel.conf最後一段IP位置後儲存,再把fossil程式關掉
-重新打開程式就會正常顯示</p>
-<h2>之後試著登錄https://192.168.1.24/2017springvcp_hw/index</h2>
-<p>要記得先Proxy的進階選項設定另外的IP選項
-才可以進入裡面做登錄的動作</p>
-                    <a class="btn btn-default btn-xs" href="../2017springCD-Week1.html">more ...</a>
+    <section id="content">
+        <article>
+            <header class="page-header">
+                <h1>
+                    <a href="./week1.html"
+                       rel="bookmark"
+                       title="Permalink to 2017第一週">
+                        2017第一週
+                    </a>
+                </h1>
+            </header>
+            <div class="entry-content">
+                <div class="panel">
+                    <div class="panel-body">
+<footer class="post-info">
+    <span class="label label-default">Date</span>
+    <span class="published">
+        <i class="fa fa-calendar"></i><time datetime="2017-02-22T00:00:00+08:00"> Wed 22 February 2017</time>
+    </span>
+            <span class="label label-default">By</span>
+            <a href="./author/40423251.html"><i class="fa fa-user"></i> 40423251</a>
+
+
+
+<span class="label label-default">Tags</span>
+	<a href="./tag/w1shang-ke-nei-rong.html">W1上課內容</a>
+    
+</footer><!-- /.post-info -->                    </div>
                 </div>
-            </article>
-            <hr/>
+                <h1>第一週上課內容</h1>
+<h3>1.本學期課程大綱</h3>
+<p>去mdecourse看大綱</p>
+<p>延伸介紹3D軟體與其關聯性</p>
+<p>介紹python的優缺點</p>
+<h3>2.打開stunnel</h3>
+<p>以ipconfig/all指令找出本機IPV4位址
+再於tiny2017_700MB&gt;data&gt;stunnel&gt;config,覆蓋stunnel.conf內容中最後一段IP再儲存,將程式fossil重新開啟就能顯示</p>
+<h3>3. 登錄</h3>
+<p>https://192.168.1.24/2017springvcp_hw/index</p>
+<p>網路設定:瀏覽器設定→變更proxy→LAN設定→將Prosy伺服器打勾→位址proxy.mde.tw→連接埠3128→近端網址不使用打勾→完成</p>
+<h3>4.以python控制v-rep四連桿機構</h3>
+<p>解開位於2017springcd_hw→data的fourbarlinkage_w_pin_base.7z壓縮檔,將有單、四、八連桿可使用於Solvespace和V-rep</p>
+            </div>
+            <!-- /.entry-content -->
+        </article>
+    </section>
 
         </div>
         <div class="col-sm-3" id="sidebar">
@@ -152,24 +184,34 @@
             <li class="list-group-item"><h4><i class="fa fa-home fa-lg"></i><span class="icon-label">Recent Posts</span></h4>
                 <ul class="list-group" id="recentposts">
                     <li class="list-group-item">
-                        <a href="../2017springCD-Week1.html">
-                            2017CD第一週
+                        <a href="./week1.html">
+                            2017第一週
+                        </a>
+                    </li>
+                    <li class="list-group-item">
+                        <a href="./week2.html">
+                            2017第二週
+                        </a>
+                    </li>
+                    <li class="list-group-item">
+                        <a href="./week3.html">
+                            2017第三週
                         </a>
                     </li>
                 </ul>
             </li>
 
-            <li class="list-group-item"><a href="../categories.html"><h4><i class="fa fa-home fa-lg"></i><span class="icon-label">Categories</span></h4></a>
+            <li class="list-group-item"><a href="./categories.html"><h4><i class="fa fa-home fa-lg"></i><span class="icon-label">Categories</span></h4></a>
                 <ul class="list-group" id="categories">
                     <li class="list-group-item">
-                        <a href="../category/course.html">
+                        <a href="./category/course.html">
                             <i class="fa fa-folder-open fa-lg"></i> Course
                         </a>
                     </li>
                 </ul>
             </li>
 
-            <li class="list-group-item"><a href="../tags.html"><h4><i class="fa fa-tags fa-lg"></i><span class="icon-label">Tags</span></h4></a>
+            <li class="list-group-item"><a href="./tags.html"><h4><i class="fa fa-tags fa-lg"></i><span class="icon-label">Tags</span></h4></a>
                 <ul class="list-group list-inline tagcloud" id="tags">
                 </ul>
             </li>
@@ -215,19 +257,19 @@
       </div>
    </div>
 </footer>
-<script src="../theme/js/jquery.min.js"></script>
+<script src="./theme/js/jquery.min.js"></script>
 
 <!-- Include all compiled plugins (below), or include individual files as needed -->
-<script src="../theme/js/bootstrap.min.js"></script>
+<script src="./theme/js/bootstrap.min.js"></script>
 
 <!-- for https://github.com/jsor/lity lightbox video popup -->
 
-<link href="../theme/css/lity.css" rel="stylesheet">
+<link href="./theme/css/lity.css" rel="stylesheet">
 
-<script src="../theme/js/lity.js"></script>
+<script src="./theme/js/lity.js"></script>
 
 <!-- Enable responsive features in IE8 with Respond.js (https://github.com/scottjehl/Respond) -->
-<script src="../theme/js/respond.min.js"></script>
+<script src="./theme/js/respond.min.js"></script>
 
 
 </body>
